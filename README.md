@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alejandro Colodrero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-I'm a passionate full-stack developer specializing in <b>multiplatform and web development</b>. I am currently working as a Junior Developer at Sepalo Software, honing my skills in web and mobile app development.
+I'm a passionate full-stack developer specializing in <b>multiplatform and web development</b>. I am currently lookgin for job.
 </p>
 
 - 🌱 **Learning:** DAW and DAM, focusing on modern web and mobile technologies.
